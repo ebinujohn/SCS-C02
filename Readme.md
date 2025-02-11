@@ -12,4 +12,4 @@ This repository is organized into the following folders:
 
 - **[Useful Links Document](useful_links.md):** This document provides a curated list of links to official AWS documentation, relevant blog posts, whitepapers, and video tutorials that I've found helpful during my studies.
 
--- **[Services to study](services_to_study.md):** This document provides a curated list of services that needs to be explored for the exam.
+- **[Services to study](services_to_study.md):** This document provides a curated list of services that needs to be explored for the exam.
